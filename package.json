@@ -1,5 +1,5 @@
 {
-  "name": "conventional-changelog-cli",
+  "name": "conventional-changelog-cli-cmss",
   "version": "1.2.0",
   "description": "Generate a changelog from git metadata",
   "homepage": "https://github.com/conventional-changelog/conventional-changelog-cli",
